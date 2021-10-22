@@ -1,0 +1,99 @@
+{
+    "fbBannedUsers": [],
+    "cacheName": {},
+    "cacheNameExpires": {},
+    "everyoneTagBlacklist": {},
+    "createGroupCooldown": {},
+    "arrowChat": {},
+    "ban": [],
+    "BotManager": {},
+    "rbclist": {},
+    "deathtag": {},
+    "denyCommand": [],
+    "disabledThread": [],
+    "ecoGambling": {
+        "blackjack": {}
+    },
+    "rouletteData": {},
+    "economyGrid": {
+        "freight": {},
+        "cooldown": {}
+    },
+    "economyIncome": {
+        "config": {
+            "payout": {
+                "work": {
+                    "min": 150,
+                    "max": 200
+                },
+                "slut": {
+                    "min": 300,
+                    "max": 450
+                },
+                "crime": {
+                    "min": 600,
+                    "max": 850
+                }
+            },
+            "fineamount": {
+                "slut": {
+                    "min": 250,
+                    "max": 400
+                },
+                "crime": {
+                    "min": 550,
+                    "max": 800
+                }
+            },
+            "failrate": {
+                "slut": 30,
+                "crime": 60
+            },
+            "cooldown": {
+                "work": 15,
+                "slut": 20,
+                "crime": 30,
+                "rob": 3600
+            }
+        },
+        "data": {
+            "work": {},
+            "slut": {},
+            "crime": {},
+            "rob": {},
+            "minting": {
+                "amountPerMinute": 10,
+                "userData": {}
+            }
+        }
+    },
+    "economy": {},
+    "economyStart": "0n",
+    "economyTX": [],
+    "eXPerience": {
+        "xp": {},
+        "checkRankCooldown": {},
+        "xpPerAction": 1
+    },
+    "giftcode": {},
+    "GoogleTranslate": {},
+    "lottery": {},
+    "out": [],
+    "Note": {},
+    "picarrow": {},
+    "piccommand": {},
+    "simsimiList": {
+        "ping": "pong!"
+    },
+    "tagg": {},
+    "toggleThanos": {},
+    "thanosMessageData": {},
+    "werewolf": {
+        "gamestatus": false,
+        "cycle": [],
+        "kickcountdown": [],
+        "roominfo": {},
+        "players": {}
+    },
+    "userLanguage": {}
+}
