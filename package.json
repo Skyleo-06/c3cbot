@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/c3cbot/c3c-0x#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "@tensorflow/tfjs": "^2.8.4",
     "adm-zip": "^0.4.16",
     "bufferutil": "^4.0.1",
